@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on learning,more learning
 - 📫 How to reach me kamaucoder@gmail.com is my email address
+- here is my X account https://x.com/MurchoidCoder
 
 <!---
 Murchoid/Murchoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
